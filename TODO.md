@@ -15,9 +15,9 @@
 - [x] 初始化 Git 仓库，完成首次 `init` 提交
 - [x] 创建 `README.md`，补充项目说明并完成 commit / push
 - [x] 创建 `TODO.md`（本文件）
-- [ ] 确定技术栈与依赖管理方案
-- [ ] 搭建工程骨架
-- [ ] 实现纯内存的 Todo 核心逻辑（CRUD）
+- [x] 确定技术栈与依赖管理方案（Python + pyproject.toml + pytest）
+- [x] 搭建工程骨架（.gitignore / pyproject.toml / todo_agent 包）
+- [x] 实现纯内存的 Todo 核心逻辑（CRUD），并附单元测试
 - [ ] 将 Todo 操作封装为可供模型调用的工具
 - [ ] 接入 LLM，完成「自然语言 → 工具调用」的编排
 - [ ] 添加最小交互层（CLI / Web）
